@@ -22,7 +22,7 @@ let updateTimer;
 
 const music_list = [
     {
-        img : 'images/test.jpeg',
+        img : 'images/faded.png',
         name : 'Kembali Pulang',
         artist : 'Suara Kayu Feat. Feby Putri',
         music : 'music/kembali_pulang.mp3'
